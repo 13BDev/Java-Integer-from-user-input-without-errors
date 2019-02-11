@@ -1,3 +1,9 @@
+/****************************
+*                           *
+*       >= 13BDev =<        *
+*                           *
+****************************/
+
 import java.util.Scanner;
 
 public class scanForInt {
